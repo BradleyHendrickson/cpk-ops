@@ -27,7 +27,7 @@ export default function Login() {
       email: email,
       password: password,
       options: {
-        emailRedirectTo: 'https://moonstone-prod.vercel.app/',
+        emailRedirectTo: 'https://cpk-ops.com/login',
       },
     });
 
